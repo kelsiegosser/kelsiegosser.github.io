@@ -1,0 +1,10 @@
+<footer>
+  <ul>
+    {% for contacts in site.contacts %}
+    <li>
+      <a href= "{{ contacts.link }}" {{ contacts.newtab }}>{{ contacts.name }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</footer>
