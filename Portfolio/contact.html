@@ -1,0 +1,18 @@
+---
+title: Contacts
+---
+<div class="column-container column-center">
+  <img src="/assets/images/alexander-gilbertson-485233-unsplash.jpg" class="hero-img contact-hero">
+  <a class="credit" href="https://unsplash.com/photos/oOiWArPH5qQ" target="_blank">Photo by Alexander Gilbertson on Unsplash</a>
+</div>
+<div class="row-container row-center">
+  {% for contacts in site.contacts %}
+  <div class="column-container contact-container">
+      <a href= "{{ contacts.link }}" {{ contacts.newtab }}>
+        <i class="{{ contacts.icon }} fa-2x">
+        </i>
+        <h4>{{ contacts.name }}</h4>
+      </a>
+  </div>
+  {% endfor %}
+</div>
