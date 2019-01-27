@@ -112,7 +112,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #58A4B7;
+  color: #3891A5;
 }
 
 /* phone only */
@@ -233,10 +233,10 @@ ul li {
 /**********************/
 a.credit {
   font-size: 9px;
-  color: #bee9e8;
+  color: #CCC;
 }
 a:hover.credit {
-  color: #ABD2D1;
+  color: #B8B8B8;
 }
 
 /**********************/
@@ -340,7 +340,7 @@ footer ul li {
     color: #f7b733;
 }
 .contact-container  a:hover {
-    color: #DEA52E;
+    color: #D8940D;
 }
 .contact-hero {
   max-width: 50%;
