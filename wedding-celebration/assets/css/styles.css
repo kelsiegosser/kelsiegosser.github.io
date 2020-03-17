@@ -155,6 +155,15 @@ a:hover {
   transition: color 0.5s ease;
 }
 
+a.dark-link {
+  color: #261F22;
+  font-weight: 600;
+}
+
+a.dark-link:hover {
+  color: #080004;
+}
+
 ul {
   line-height: 200%;
   font-size: 120%;
@@ -170,7 +179,8 @@ li {
 
 strong {
   font-weight: 600;
-  font-size: larger;
+  font-size: medium;
+  color: white;
 }
 
 nav {
@@ -259,8 +269,8 @@ iframe {
 }
 
 .section > p {
-  padding-left: 3em;
-  padding-right: 3em;
+  padding-left: 10em;
+  padding-right: 10em;
 }
 
 
@@ -555,7 +565,7 @@ iframe {
   align-self: center;
 }
 
-#gr.section h3 {
+.section > h3 {
   margin-top: 3em;
 }
 
@@ -573,7 +583,7 @@ iframe {
 }
 
 .orange-background {
-  background: linear-gradient(rgb(255, 161, 77), #ff9233);
+  background: linear-gradient(#F78E2F, #E87A1A);
   color: #eff5f4;
 }
 
@@ -589,11 +599,6 @@ iframe {
 
 .purple-background {
   background: linear-gradient(rgb(186, 17, 120), #A10E67);
-  color: #eff5f4;
-}
-
-.orange-background {
-  background: #ffa14d;
   color: #eff5f4;
 }
 
@@ -781,6 +786,38 @@ img.wedding-party {
   box-shadow: 0 0 6px rgba(0, 0, 0, .12), 
     1px 1px 4px rgba(0, 0, 0, 0.16), 
     2px 4px 6px rgba(104, 1, 38, 0.2);
+}
+
+.button.orange-inverted,
+.button.orange-inverted:visited {
+  color: #FF8233;
+  background: #211D1E;
+  font-weight: bold;
+}
+
+.button.orange-inverted:hover,
+.button.orange-inverted:active {
+  transition: background 0.5s ease;
+  color: #E87A1A;
+  box-shadow: 0 0 6px rgba(0, 0, 0, .12), 
+    1px 1px 4px rgba(0, 0, 0, 0.16), 
+    2px 4px 6px rgba(110, 52, 1, 0.20);
+}
+
+.button.purple-inverted,
+.button.purple-inverted:visited {
+  color: #BA1178;
+  background: #211D1E;
+  font-weight: bold;
+}
+
+.button.purple-inverted:hover,
+.button.purple-inverted:active {
+  transition: background 0.5s ease;
+  color: #A80070;
+  box-shadow: 0 0 6px rgba(0, 0, 0, .12), 
+    1px 1px 4px rgba(0, 0, 0, 0.16), 
+    2px 4px 6px rgba(110, 52, 1, 0.20);
 }
 
 /************/
