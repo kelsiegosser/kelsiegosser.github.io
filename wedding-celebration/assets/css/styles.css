@@ -864,16 +864,16 @@ footer,
 }
 
 footer a {
-  color: #aab8b5;
+  color: #F78E2F;
+}
+
+footer a:hover {
+  color: #E87A1A;
 }
 
 .fab,
 .fas {
   padding: 0.25em 0.5em 0.25em 0.25em;
-}
-
-footer a:hover {
-  color: white;
 }
 
 footer p,
