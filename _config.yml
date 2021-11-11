@@ -2,7 +2,6 @@ site: Kelsie Gosser's Portfolio
 
 domain: kelsiegosser.github.io
 url: https://kelsiegosser.com
-baseurl: /portfolio/
 
 collections:
   pages:
