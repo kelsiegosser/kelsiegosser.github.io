@@ -18,4 +18,4 @@ My husband and I eloped during the pandemic. We wanted to have a wedding celebra
 
 While creating our wedding celebration site, I used the same template that I created for our wedding site, but made it a dark theme. 
 
-[View website](http://kelsiegosser.com/wedding-celebration/)
+[View website](https://kelsiegosser.com/wedding-celebration/)
