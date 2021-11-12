@@ -18,4 +18,4 @@ My husband and I decided to elope in the Virgin Islands. Getting married on a tr
 
 I was really torn while trying to decide how to design our wedding website. This was the first time I was able to create a website from scratch using my own design interests rather than following work design standards. I teetered between having a more traditional themed website for our wedding versus a fun and funky website that matched our beach themed wedding. Ultimately, I decided to have fun and create a loud, vibrant wedding website for our guests to view leading up to the wedding.
 
-[View website](http://kelsiegosser.com/wedding/)
+[View website](https://kelsiegosser.com/wedding/)
