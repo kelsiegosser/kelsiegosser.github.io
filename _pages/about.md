@@ -1,7 +1,7 @@
 ---
 title: Hey, I'm Kelsie!<br>I am a UX Designer & Developer
 subtitle: I have filled many roles during my career but UX Design is my passion.
-description: 
+description:
 featured_image: /images/about/about-hero.png
 ---
 ## Awards & Accomplishments
@@ -20,7 +20,7 @@ featured_image: /images/about/about-hero.png
 
 ## Certifications & Courses
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="4">
     <img src="/images/about/learn-ui-design.png">
     <img src="/images/about/freeCodeCamp-web-design.png">
     <img src="/images/about/freeCodeCamp-js.png">
@@ -39,7 +39,11 @@ featured_image: /images/about/about-hero.png
 
 I am a Michigander at heart, and went to college in North Carolina, but have called Indianapolis my home for nearly a decade.
 
-Traveling is what my husband and I live for. We love to experience different cultures and scenery as often as possible.
+<img src="{{site.baseurl}}/images/about/personal/places-lived.png" style="max-width: 550px">
+
+### Hobbies
+
+Traveling, hiking, and camping are what my husband and I live for. We love to experience different cultures and scenery as often as possible.
 
 <div class="gallery" data-columns="4">
     <img src="/images/about/personal/IMG_5513.png" alt="St John, USVI">
@@ -72,3 +76,13 @@ I am very passionate about the environment. Helping our planet is something I st
     <img src="/images/about/personal/KIB-GreenKids.jpg">
     <img src="/images/about/personal/KIB-GreenSpace.jpg">
 </div>
+
+### Big Brothers Big Sisters
+
+I became a Big Sister in July 2018. My Little Sister is vibrant, smart, and passionate about her friends and family. It has been such a rewarding experience to be her Big Sister.
+
+<img src="{{site.baseurl}}/images/about/personal/bbbsci.jpeg" style="width:300px">
+
+### Learning Portuguese
+
+My husband and his family are from Brazil which has inspired me to learn Portuguese. Feel free to add me on [Duolingo](https://www.duolingo.com/profile/kelsiegosser?via=share_profile)!
