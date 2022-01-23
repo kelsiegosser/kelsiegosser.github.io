@@ -24,7 +24,7 @@ featured_image: /images/about/about-hero.png
     <img src="/images/about/learn-ui-design.png">
     <img src="/images/about/freeCodeCamp-web-design.png">
     <img src="/images/about/freeCodeCamp-js.png">
-	<img src="/images/about/udemy-ux-design.png">
+	  <img src="/images/about/udemy-ux-design.png">
     <img src="/images/about/udemy-web-design.png">
     <img src="/images/about/udemy-react-redux.png">
     <img src="/images/about/udemy-powerbi.png">
@@ -39,7 +39,11 @@ featured_image: /images/about/about-hero.png
 
 I am a Michigander at heart, and went to college in North Carolina, but have called Indianapolis my home for nearly a decade.
 
-<img src="{{site.baseurl}}/images/about/personal/places-lived.png" style="max-width: 550px">
+<div class="gallery" data-columns="3">
+    <img src="/images/about/personal/gr.png">
+    <img src="/images/about/personal/raleigh.png">
+    <img src="/images/about/personal/indy.png">
+</div>
 
 ### Hobbies
 
